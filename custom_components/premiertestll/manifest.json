@@ -1,0 +1,10 @@
+{
+  "domain": "premiertestll",
+  "name": "PremierTestLL",
+  "documentation": "https://github.com/laurentlemercier/premiertestll",
+  "issue_tracker": "https://github.com/laurentlemercier/premiertestll/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@laurentlemercier"],
+  "requirements": []
+}
